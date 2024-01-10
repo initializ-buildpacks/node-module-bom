@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	nodemodulebom "github.com/paketo-buildpacks/node-module-bom"
+	nodemodulebom "github.com/initializ-buildpacks/node-module-bom"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/cargo"
 	"github.com/paketo-buildpacks/packit/v2/chronos"

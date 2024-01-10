@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	nodemodulebom "github.com/paketo-buildpacks/node-module-bom"
-	"github.com/paketo-buildpacks/node-module-bom/fakes"
+	nodemodulebom "github.com/initializ-buildpacks/node-module-bom"
+	"github.com/initializ-buildpacks/node-module-bom/fakes"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/chronos"
 

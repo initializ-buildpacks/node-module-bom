@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/node-module-bom
+module github.com/initializ-buildpacks/node-module-bom
 
 go 1.16
 
