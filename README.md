@@ -15,8 +15,8 @@ of a `node_modules` directory in the application source directory and requires
 
 If there is no `node_modules` directory in the application source directory,
 `node_modules` (provided by the [NPM Install
-CNB](https://github.com/paketo-buildpacks/npm-install) or [Yarn Install
-CNB](https://github.com/paketo-buildpacks/yarn-install)) are also required for
+CNB](https://github.com/initializ-buildpacks/npm-install) or [Yarn Install
+CNB](https://github.com/initializ-buildpacks/yarn-install)) are also required for
 detection.
 
 ## Usage
